@@ -1,0 +1,34 @@
+body{
+    background: #ffc33d;
+    color: black;
+    font-family: Kalapi;
+    font-weight: bolder;
+}
+.lg{
+    background: black;
+    color: #ffc33d;
+    border-radius: 10px;
+}
+.script{
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    border-width: 10px;
+    border-color: black;
+}
+.col-lg-12{
+    height: 600px;
+}
+.black1{
+    color: #ffc33d;
+    font-size: 32px;
+    font-weight: bolder;
+    font-family: Kalapi;
+    text-align: center;
+    background: black;
+}
+.col {
+    border-radius: 10px;
+    border-width: 2px;
+    border-color: black;
+}

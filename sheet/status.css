@@ -1,0 +1,25 @@
+body{
+    background: #ffc33d;
+    color: black;
+    font-family: Kalapi;
+    font-weight: bolder;
+}
+.note{
+    width: 100%;
+    height: 100%
+}
+.col-md-12{
+    background: black;
+    height: 10px;
+}
+.col-md-11{
+    height: 20px;
+}
+.black1{
+    color: #ffc33d;
+    font-size: 32px;
+    font-weight: bolder;
+    font-family: Kalapi;
+    text-align: center;
+    background: black;
+}
